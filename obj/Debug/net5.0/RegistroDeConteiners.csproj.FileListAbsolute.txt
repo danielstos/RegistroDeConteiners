@@ -1,0 +1,537 @@
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\appsettings.Development.json
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\appsettings.json
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.exe
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.deps.json
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.runtimeconfig.json
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.runtimeconfig.dev.json
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ref\RegistroDeConteiners.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.pdb
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.Views.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.Views.pdb
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Humanizer.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DANIEL\projetos\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csprojAssemblyReference.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.GeneratedMSBuildEditorConfig.editorconfig
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.AssemblyInfoInputs.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.AssemblyInfo.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csproj.CoreCompileInputs.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.MvcApplicationPartsAssemblyInfo.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorAssemblyInfo.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorAssemblyInfo.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\staticwebassets\RegistroDeConteiners.StaticWebAssets.Manifest.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\staticwebassets\RegistroDeConteiners.StaticWebAssets.xml
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\scopedcss\bundle\RegistroDeConteiners.styles.css
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.TagHelpers.input.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.TagHelpers.output.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorCoreGenerate.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorTargetAssemblyInfo.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorTargetAssemblyInfo.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.Views.pdb
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csproj.CopyComplete
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.dll
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\ref\RegistroDeConteiners.dll
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.pdb
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.genruntimeconfig.cache
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Create.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Delete.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Details.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Edit.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Index.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Create.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Delete.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Details.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Edit.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Index.cshtml.g.cs
+E:\DANIEL\projetos\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Report\index.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\appsettings.json
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.exe
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.deps.json
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.runtimeconfig.json
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.runtimeconfig.dev.json
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ref\RegistroDeConteiners.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.pdb
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.Views.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.Views.pdb
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Humanizer.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\danie\Music\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csprojAssemblyReference.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.AssemblyInfoInputs.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.AssemblyInfo.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csproj.CoreCompileInputs.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorAssemblyInfo.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorAssemblyInfo.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\staticwebassets\RegistroDeConteiners.StaticWebAssets.Manifest.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\staticwebassets\RegistroDeConteiners.StaticWebAssets.xml
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\scopedcss\bundle\RegistroDeConteiners.styles.css
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.TagHelpers.input.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.TagHelpers.output.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorCoreGenerate.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Create.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Delete.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Details.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Edit.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Index.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Create.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Delete.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Details.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Edit.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Index.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Report\index.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorTargetAssemblyInfo.cache
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorTargetAssemblyInfo.cs
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.Views.pdb
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csproj.CopyComplete
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.dll
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\ref\RegistroDeConteiners.dll
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.pdb
+C:\Users\danie\Music\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\appsettings.json
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ref\RegistroDeConteiners.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.Views.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\RegistroDeConteiners.Views.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Humanizer.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorAssemblyInfo.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorAssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\staticwebassets\RegistroDeConteiners.StaticWebAssets.Manifest.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\staticwebassets\RegistroDeConteiners.StaticWebAssets.xml
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\scopedcss\bundle\RegistroDeConteiners.styles.css
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.TagHelpers.input.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.TagHelpers.output.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorCoreGenerate.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Create.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Delete.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Details.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Edit.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Conteiners\Index.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Create.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Delete.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Details.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Edit.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Movimentacoes\Index.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Report\index.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorTargetAssemblyInfo.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.RazorTargetAssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.Views.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.csproj.CopyComplete
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\ref\RegistroDeConteiners.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Nova pasta (5)\projeto\RegistroDeConteiners\obj\Debug\net5.0\RegistroDeConteiners.genruntimeconfig.cache

@@ -1,0 +1,61 @@
+@page
+@model RegistroDeConteiners.Pages_Movimentacoes.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p>
+    <a asp-page="Create"  class="btn btn-primary">Adicionar Movimentação</a>
+</p>
+
+<h2>Controle de Movimentações</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Movimentacoes[0].Navio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movimentacoes[0].TipodeMv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movimentacoes[0].DtInicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movimentacoes[0].DtFim)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movimentacoes[0].Conteiner)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Movimentacoes) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Navio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipodeMv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtInicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DtFim)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Conteiner.Numerodecntr)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

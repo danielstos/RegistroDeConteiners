@@ -1,0 +1,49 @@
+@page
+@model RegistroDeConteiners.Pages_Report.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Report</h1>
+
+<hr>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cliente
+            </th>
+            <th>
+                Tipo de Movimentacao
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Movimentacoes) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Conteiner.Cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipodeMv)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<hr>
+
+<footer>
+    <h2>Total</h2>
+    <p>
+        <b>Importacoes:</b>
+        @Model.totalImportacao
+    </p>
+    <p>
+        <b>Exportacoes:</b>
+        @Model.totalExportacao
+    </p>
+</footer>

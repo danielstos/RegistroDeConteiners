@@ -1,0 +1,61 @@
+@page
+@model RegistroDeConteiners.Pages_Movimentacoes.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+<h4> Cadastrar Movimentações</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.Navio" class="control-label"></label>
+                <input asp-for="Movimentacoes.Navio" class="form-control" />
+                <span asp-validation-for="Movimentacoes.Navio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.TipodeMv" class="control-label"></label>
+                <select asp-for="Movimentacoes.TipodeMv" class="form-control">
+                    <option value="Embarque">Embarque</option>
+                    <option value="Descarga">Descarga</option>
+                    <option value="Gate in">Gate in</option>
+                    <option value="Gate out">Gate out</option>
+                    <option value="Posicionamento Pilha">Posicionamento Pilha</option>
+                    <option value="Pesagem">Pesagem</option>
+                    <option value="Scanner">Scanner</option>                
+                </select>
+                <span asp-validation-for="Movimentacoes.TipodeMv" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.DtInicio" class="control-label"></label>
+                <input asp-for="Movimentacoes.DtInicio" class="form-control" />
+                <span asp-validation-for="Movimentacoes.DtInicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.DtFim" class="control-label"></label>
+                <input asp-for="Movimentacoes.DtFim" class="form-control" />
+                <span asp-validation-for="Movimentacoes.DtFim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.ConteinerID" class="control-label">Selecionar Conteiner</label>
+                <select asp-for="Movimentacoes.ConteinerID" class ="form-control" asp-items="ViewBag.ConteinerID"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

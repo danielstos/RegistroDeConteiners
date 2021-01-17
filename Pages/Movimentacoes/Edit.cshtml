@@ -1,0 +1,55 @@
+@page
+@model RegistroDeConteiners.Pages_Movimentacoes.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Movimentacoes</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Movimentacoes.ID" />
+            <div class="form-group">
+                <label asp-for="Movimentacoes.Navio" class="control-label"></label>
+                <input asp-for="Movimentacoes.Navio" class="form-control" />
+                <span asp-validation-for="Movimentacoes.Navio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.TipodeMv" class="control-label"></label>
+                <input asp-for="Movimentacoes.TipodeMv" class="form-control" />
+                <span asp-validation-for="Movimentacoes.TipodeMv" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.DtInicio" class="control-label"></label>
+                <input asp-for="Movimentacoes.DtInicio" class="form-control" />
+                <span asp-validation-for="Movimentacoes.DtInicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.DtFim" class="control-label"></label>
+                <input asp-for="Movimentacoes.DtFim" class="form-control" />
+                <span asp-validation-for="Movimentacoes.DtFim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Movimentacoes.ConteinerID" class="control-label"></label>
+                <select asp-for="Movimentacoes.ConteinerID" class="form-control" asp-items="ViewBag.ConteinerID"></select>
+                <span asp-validation-for="Movimentacoes.ConteinerID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

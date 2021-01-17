@@ -1,0 +1,63 @@
+@page 
+@model RegistroDeConteiners.Pages_Conteiners.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<h4> Cadastrar Conteiner</h4>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Conteiner.Cliente" class="control-label"></label>
+                <input asp-for="Conteiner.Cliente" class="form-control" />
+                <span asp-validation-for="Conteiner.Cliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conteiner.Numerodecntr" class="control-label"></label>
+                <input asp-for="Conteiner.Numerodecntr" class="form-control" />
+                <span asp-validation-for="Conteiner.Numerodecntr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conteiner.Tipo" class="control-label"></label>
+                <select asp-for="Conteiner.Tipo" class="form-control">
+                    <option value="20">20</option>
+                    <option value="40">40</option>
+                </select>
+                <span asp-validation-for="Conteiner.Tipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conteiner.Status" class="control-label"></label>
+                <select asp-for="Conteiner.Status" class="form-control">
+                      <option value="Cheio">Cheio</option>
+                      <option value="Vazio">Vazio</option>
+                </select>
+                <span asp-validation-for="Conteiner.Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Conteiner.Categoria" class="control-label"></label>
+                <select asp-for="Conteiner.Categoria" class="form-control">
+                    <option value="Importação">Importação</option>
+                    <option value="Exportação">Exportação</option>
+                </select>
+                <span asp-validation-for="Conteiner.Categoria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
