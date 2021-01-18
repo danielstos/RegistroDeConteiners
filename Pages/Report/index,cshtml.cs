@@ -18,27 +18,34 @@ namespace RegistroDeConteiners.Pages_Report
         {
             _context = context;
         }
-
-        public IList<Movimentacoes> Movimentacoes { get;set; }
-
-        public IList<Conteiner> Conteiners { get;set; }
+        
+        public IList<Movimentacoes> MovimentacoesAgrupadas { get;set; }
         public int totalImportacao = 0;
         public int totalExportacao = 0;
 
         public async Task OnGetAsync()
         {
-            Movimentacoes = await _context.Movimentacoes
-                .Include(m => m.Conteiner).ToListAsync();
 
-            foreach (var movimentacao in Movimentacoes)
-            {
-                if (movimentacao.Conteiner.Categoria == "Importação") {
-                    totalImportacao++;
-                }
-                if (movimentacao.Conteiner.Categoria == "Exportação") {
-                    totalExportacao++;
-                }
-            }
+            MovimentacoesAgrupadas = await _context.Movimentacoes
+            .GroupBy(m => new {
+                Cliente = m.Conteiner.Cliente,
+                TipodeMv = m.TipodeMv
+            })
+            .Select(g => new Movimentacoes {
+                Conteiner = new Conteiner{ Cliente = g.Key.Cliente },
+                TipodeMv = g.Key.TipodeMv
+            })
+            .ToListAsync();
+
+            totalImportacao = await _context.Movimentacoes
+                .Where(m => m.Conteiner.Categoria == "Importação")
+                .CountAsync();
+
+            totalExportacao = await _context.Movimentacoes
+                .Where(m => m.Conteiner.Categoria == "Exportação")
+                .CountAsync();
+
+            
         }
     }
 }

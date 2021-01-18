@@ -5,7 +5,7 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Report</h1>
+<h1>Relátorio de movimentações</h1>
 
 <hr>
 
@@ -21,7 +21,7 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model.Movimentacoes) {
+@foreach (var item in Model.MovimentacoesAgrupadas) {
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Conteiner.Cliente)
