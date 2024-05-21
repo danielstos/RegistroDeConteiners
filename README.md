@@ -21,5 +21,9 @@ Aplicação contendo dois formúlarios de cadastros com CRUD e relatorio para vi
 ## Como rodar esse projeto
 ```sh
 Pressione Ctrl-F5 para executar sem o depurador.
-O Visual Studio Code inicia o Kestrel, inicializa um navegador e navega até http://localhost:5001. A barra de endereços mostra localhost:port# e não algo como example.com. Isso ocorre porque localhost é o nome do host padrão do computador local. Localhost serve somente solicitações da Web do computador local.
+O Visual Studio Code inicia o Kestrel,
+inicializa um navegador e navega até http://localhost:5001.
+A barra de endereços mostra localhost:port# e não algo como example.com.
+Isso ocorre porque localhost é o nome do host padrão do computador local.
+Localhost serve somente solicitações da Web do computador local.
 ```
